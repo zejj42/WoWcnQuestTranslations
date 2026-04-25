@@ -1,0 +1,13 @@
+## Interface: 120005
+## Title: Chinese Quest Translations
+## Notes: Standalone Chinese quest translations for World of Warcraft
+## Author: zejj42
+## OptionalDeps: DialogueUI
+## Version: 2.0.0
+## SavedVariables: WoWcnQuestTranslations_DB
+
+QuestData.lua
+Core.lua
+Integrations/Blizzard.lua
+Integrations/DialogueUI.lua
+Settings.lua
