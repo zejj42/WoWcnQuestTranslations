@@ -2,7 +2,7 @@ local ADDON_NAME, ns = ...
 
 -- ── Constants ─────────────────────────────────────────────────────────────────
 
-ns.FONT_PATH = "Interface/AddOns/WoWcnQuestTranslations/Fonts/woweucn.ttf"
+ns.FONT_PATH = "Interface/AddOns/WoWcnQuestTranslations/Fonts/SourceHanSans.ttf"
 
 -- ── Integration registry ──────────────────────────────────────────────────────
 

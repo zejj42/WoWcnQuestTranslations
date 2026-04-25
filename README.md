@@ -70,7 +70,7 @@ WoWcnQuestTranslations/
 │   ├── Blizzard.lua          # Native Blizzard quest UI integration
 │   └── DialogueUI.lua        # DialogueUI addon integration
 └── Fonts/
-    └── woweucn.ttf           # Bundled CJK font
+    └── SourceHanSans.ttf     # Bundled CJK font (Adobe Source Han Sans, OFL licensed)
 ```
 
 ## Contributing
